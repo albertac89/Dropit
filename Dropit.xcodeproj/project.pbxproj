@@ -101,8 +101,6 @@
 		503AD7D81FB469AF00FFC2A4 /* Dropit */ = {
 			isa = PBXGroup;
 			children = (
-				503AD7DC1FB469AF00FFC2A4 /* AppDelegate.h */,
-				503AD7DD1FB469AF00FFC2A4 /* AppDelegate.m */,
 				503AD7DF1FB469AF00FFC2A4 /* ViewController.h */,
 				503AD7E01FB469AF00FFC2A4 /* ViewController.m */,
 				503AD7E21FB469AF00FFC2A4 /* Main.storyboard */,
@@ -117,6 +115,8 @@
 		503AD7D91FB469AF00FFC2A4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				503AD7DC1FB469AF00FFC2A4 /* AppDelegate.h */,
+				503AD7DD1FB469AF00FFC2A4 /* AppDelegate.m */,
 				503AD7DA1FB469AF00FFC2A4 /* main.m */,
 			);
 			name = "Supporting Files";
